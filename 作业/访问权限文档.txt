@@ -1,0 +1,13 @@
+访问链接：http://localhost:8080/demo/query?name=?
+
+
+有权限用户：aaa,bbb
+链接：
+http://localhost:8080/demo/query?name=aaa
+http://localhost:8080/demo/query?name=bbb
+
+
+没有访问权限用户：ccc,ddd
+链接：
+http://localhost:8080/demo/query?name=ccc
+http://localhost:8080/demo/query?name=ddd
